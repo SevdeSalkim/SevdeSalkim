@@ -1,4 +1,5 @@
-![alt text](https://static.designandreuse.com/news_img2/homepage53213/softb.jpg)
+
+<img src="https://www.rhsmith.umd.edu/sites/default/files/research/featured/2022/09/design-ai-poses-a-threat-to-human-designers-jobs.jpg" width="auto" title="hover text">
 
 
 <h1 align="center">Hi 👋, I'm Sevde SALKIM</h1>
