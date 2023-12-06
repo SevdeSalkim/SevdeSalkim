@@ -1,3 +1,6 @@
+![alt text](https://static.designandreuse.com/news_img2/homepage53213/softb.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Sevde SALKIM</h1>
 <h3 align="center">A passionate ML developer from Turkey</h3>
 
