@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently learning  JAVA, SpringBoot<br><br>💬 Ask me about RabbitMQ,Kafka<br><br>📫 How to reach me sevde.salkim@gmail.com
+ I’m currently learning  JAVA, SpringBoot<br><br><br>📫 How to reach me sevde.salkim@gmail.com
 
 
 ## 🌐Connect with me:
